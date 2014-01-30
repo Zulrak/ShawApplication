@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShawInformationApplication", "ShawInformationApplication\ShawInformationApplication.csproj", "{903695AC-EDE7-4D37-BDBC-3339DD81FD2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessRules", "ClassLibrary1\BusinessRules.csproj", "{6B4EEA1F-55D6-4036-AF86-6A7CE6B77CB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{903695AC-EDE7-4D37-BDBC-3339DD81FD2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{903695AC-EDE7-4D37-BDBC-3339DD81FD2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{903695AC-EDE7-4D37-BDBC-3339DD81FD2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{903695AC-EDE7-4D37-BDBC-3339DD81FD2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B4EEA1F-55D6-4036-AF86-6A7CE6B77CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4EEA1F-55D6-4036-AF86-6A7CE6B77CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4EEA1F-55D6-4036-AF86-6A7CE6B77CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4EEA1F-55D6-4036-AF86-6A7CE6B77CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
